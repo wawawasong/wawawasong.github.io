@@ -15,20 +15,20 @@
 minimal_mistakes_skin    : "air" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "Korea"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "W.A. Archive"
-title_separator          : "-"
+title_separator          : "Archive"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "W.A. Song"
-description              : "An amazing website."
+description              : "Good person"
 url                      : "https://wawawasong.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-breadcrumbs              : # true, false (default)
+breadcrumbs              : ture # true, false (default)
 words_per_minute         : 200
 enable_copy_code_button  : # true, false (default)
 copyright                : # "copyright" name, defaults to site.title
@@ -115,8 +115,8 @@ analytics:
 author:
   name             : "W.A. Song"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "I am a **good** person."
+  location         : "Korea"
   email            :
   links:
     - label: "Email"
@@ -320,6 +320,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true # true
       share: true
       related: true
