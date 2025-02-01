@@ -1,10 +1,10 @@
-title: 기억력 안좋음 # name of the site
-author: 자연인 # name of site's author
+title: 서랍장 # name of the site
+author: 알베르트 # name of site's author
 email: 비밀 # email of site's author
 url: https://wawawasong.github.io # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
-  안녕하세요. 저장소입니다.
+  서랍장입니다. 정리하세요.
 
 permalink: /:slug.html
 
