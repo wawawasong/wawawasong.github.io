@@ -21,5 +21,5 @@ ea commodo consequat.
 ## 예제입니다.
 아래 식은 쿨롱법칙입니다.
 
-$$ \frac{k_e q_1 q_2}/{r^2} = F $$
+$$ \frac{k_e q_1 q_2}{r^2} = F $$
 
