@@ -18,3 +18,8 @@ $$ \left[ \frac{-\hbar^2}{2\mu}\nabla^2 + V(\mathbf{r},t)\right] \Psi(\mathbf{r}
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
 ea commodo consequat.
 
+## 예제입니다.
+아래 식은 쿨롱법칙입니다.
+
+$$ \frac{k_e q_1 q_2}/{r^2} = F $$
+
