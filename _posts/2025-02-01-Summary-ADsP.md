@@ -23,7 +23,7 @@ category: ADsP
 - 암묵지 = 겉으로 드러나지 않는 상태의 지식
 - 형식지 = 외부로 표출돼 여러 사람이 공유할 수 있는 지식
  
-![theme logo](https://raw.githubusercontent.com/riggraz/no-style-please/master/logo.png){:.ioda}
+![theme logo](https://raw.githubusercontent.com/wawawasong/wawawasong.github.io/master/_images/암묵지형식지.png){:.ioda}
 
 @ 공통화, 표출화, 내면화, 연결화
 
